@@ -1,0 +1,10 @@
+15-08-2021-22:01:41 [PWChallenge.TLogger] [DEBUG] [TestLogger] - Debug Information
+15-08-2021-22:01:41 [PWChallenge.TLogger] [INFO] [TestLogger] - Info Information
+15-08-2021-22:01:41 [PWChallenge.TLogger] [WARN] [TestLogger] - Warning Information
+15-08-2021-22:01:41 [PWChallenge.TLogger] [ERROR] [TestLogger] - Error Information
+15-08-2021-22:01:41 [PWChallenge.TLogger] [FATAL] [TestLogger] - Fatal Information
+15-08-2021-22:13:12 [PWChallenge.TLogger] [DEBUG] [TestLogger] - Debug Information
+15-08-2021-22:13:12 [PWChallenge.TLogger] [INFO] [TestLogger] - Info Information
+15-08-2021-22:13:12 [PWChallenge.TLogger] [WARN] [TestLogger] - Warning Information
+15-08-2021-22:13:12 [PWChallenge.TLogger] [ERROR] [TestLogger] - Error Information
+15-08-2021-22:13:12 [PWChallenge.TLogger] [FATAL] [TestLogger] - Fatal Information
